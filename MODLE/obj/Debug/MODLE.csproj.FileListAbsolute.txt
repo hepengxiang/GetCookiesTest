@@ -1,0 +1,25 @@
+C:\Users\Administrator\Desktop\getCookiesTest\MODLE\bin\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\getCookiesTest\MODLE\bin\Debug\MODLE.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\MODLE\obj\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\getCookiesTest\MODLE\obj\Debug\MODLE.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\MODLE\obj\Debug\MODLE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\MODLE\bin\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\MODLE\bin\Debug\MODLE.pdb
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.pdb
+E:\桌面文件----勿删\刘工\getCookiesTest\MODLE\bin\Debug\MODLE.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\MODLE\bin\Debug\MODLE.pdb
+E:\桌面文件----勿删\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\MODLE\obj\Debug\MODLE.pdb
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\MODLE\bin\Debug\MODLE.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\MODLE\bin\Debug\MODLE.pdb
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.csprojResolveAssemblyReference.cache
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\MODLE\bin\Debug\MODLE.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\MODLE\bin\Debug\MODLE.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.csprojResolveAssemblyReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\MODLE\obj\Debug\MODLE.pdb

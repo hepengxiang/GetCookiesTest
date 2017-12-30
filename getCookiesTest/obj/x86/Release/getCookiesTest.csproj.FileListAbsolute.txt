@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Release\getCookiesTest.exe.config
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Release\getCookiesTest.exe
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Release\getCookiesTest.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Release\MODLE.dll
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Release\MODLE.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.frmMain.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.login.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.exe
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Release\getCookiesTest.pdb

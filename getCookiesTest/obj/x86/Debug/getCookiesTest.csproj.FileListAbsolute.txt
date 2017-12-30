@@ -1,0 +1,81 @@
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.exe
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.pdb
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.login.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.frmMain.resources
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe.config
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\HttpHelper.dll
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\getCookiesTest\getCookiesTest\bin\Debug\MODLE.pdb
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe.config
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.exe
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.pdb
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.pdb
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\HttpHelper.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\MODLE.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\bin\Debug\MODLE.pdb
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.frmMain.resources
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.login.resources
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe.config
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.exe
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.pdb
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.exe
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\getCookiesTest.pdb
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\HtmlAgilityPack.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\HttpHelper.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\MODLE.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\Newtonsoft.Json.dll
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\bin\Debug\MODLE.pdb
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csprojResolveAssemblyReference.cache
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.frmMain.resources
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.login.resources
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.Properties.Resources.resources
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.csproj.GenerateResource.Cache
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.WebbrowserShow.resources
+E:\桌面文件----勿删\刘工\getCookiesTest\getCookiesTest\obj\x86\Debug\getCookiesTest.EmailWindowsShow.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.exe.config
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.exe
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.pdb
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.exe
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.pdb
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\HtmlAgilityPack.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\HttpHelper.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\MODLE.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\Newtonsoft.Json.dll
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\MODLE.pdb
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.csprojResolveAssemblyReference.cache
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.EmailWindowsShow.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.frmMain.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.login.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.Properties.Resources.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.WebbrowserShow.resources
+G:\优梯教育软件及源码\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.csproj.GenerateResource.Cache
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.exe.config
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.exe
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.exe
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\getCookiesTest.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\HtmlAgilityPack.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\HttpHelper.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\MODLE.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\Newtonsoft.Json.dll
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\bin\Debug\MODLE.pdb
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.csprojResolveAssemblyReference.cache
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.EmailWindowsShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.frmMain.resources
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.login.resources
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.Properties.Resources.resources
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.WebbrowserShow.resources
+F:\优梯教育软件及源码 - 使用版本\源码\商图社自动下载软件源码\getCookiesTest\obj\x86\Debug\getCookiesTest.csproj.GenerateResource.Cache
